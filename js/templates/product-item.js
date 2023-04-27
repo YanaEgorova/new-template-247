@@ -15,7 +15,7 @@ export const item = (product) => {
   
     <div class="product__text-box">
     <span class="product__price">
-    $<span>${(product.price).toFixed(2)}</span>
+    $${(product.price).toFixed(2)}
     </span>
     <p class="product__name js_product-name">${product.name}</p>
     
