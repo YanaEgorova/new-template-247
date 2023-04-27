@@ -1,0 +1,31 @@
+
+@font-face {
+    font-family: 'Red Rose';
+    src: url('../fonts/RedRose-Light.eot');
+    src: url('../fonts/RedRose-Light.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/RedRose-Light.woff2') format('woff2'),
+        url('../fonts/RedRose-Light.woff') format('woff'),
+        url('../fonts/RedRose-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: 'Red Rose Bold';
+    src: url('../fonts/RedRose-Bold.eot');
+    src: url('../fonts/RedRose-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/RedRose-Bold.woff2') format('woff2'),
+        url('../fonts/RedRose-Bold.woff') format('woff'),
+        url('../fonts/RedRose-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+
+
+
+

@@ -1,0 +1,25 @@
+:root {
+  --main-bg-color: #fff;
+  --sub-bg-color: #000;
+  --main-text-color: #000;
+  --sub-text-color: #fff;
+  --inactive: #818181;
+  --success: #bee3be;
+  --link-color: blue;
+  --accent-color: #ff0000;
+
+
+  /* --first-brand-color: #f3f3f3;
+  --second-brand-color: #EBE5D2;
+  --third-brand-color: #8bc84a;
+  --fourth-brand-color: #847A46; */
+  --first-brand-color: #EBE5D2;
+  --second-brand-color: #8bc84a;
+  --third-brand-color: #847A46;
+
+
+  --main-font:  'Red Rose';
+  --main-title-font: 'Red Rose Bold';
+
+  font-size: 62.5%;
+}
