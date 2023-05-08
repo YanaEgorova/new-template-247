@@ -29,12 +29,9 @@
     text-transform: uppercase;
     margin-bottom: 1rem;
 }
-.return__block .text {
-    margin: 0 auto 2rem;
-    max-width: 40rem;
-}
-.return__block.first {
-    margin-bottom: 5rem;
+.return__block {
+    margin: 0 auto;
+    max-width: 65rem;
 }
 
 
@@ -160,36 +157,20 @@
 
 
 
-    .return__block {
-        display: flex;
-        justify-content: space-between;
-        max-width: 70%;
-        margin-left: auto;
-        margin-right: auto;
-    }
-    .return__box {
-        position: relative;
-    }
-    .return__box::before {
-        position: absolute;
-        position: absolute;
-        display: block;
-        content: '';
-        width: 40%;
-        height: 120%;
-        top: 50%;
-        left: 0;
-        transform: translate(0, -50%);
-        background-color: var(--first-brand-color);
-    }
-    .return__block .text,
-    .return__block .btn {
-        position: relative;
-    }
+   .return__block {
+    max-width: 80%;
+    display: flex;
+    justify-content:  space-between;
+    text-align: left;
+   }
     .return__subtitle {
         font-family: var(--main-title-font);
         font-size: 3rem;
         margin-bottom: 0;
+        width: 40%;
+    }
+    .return__block .text {
+        width: 55%;
     }
 
 
